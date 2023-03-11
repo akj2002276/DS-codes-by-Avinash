@@ -9,3 +9,9 @@ reptiles/**/*
 
 # Ignore any logs produced by reptile code
 *.reptile.log
+.replit
+Makefile
+.ccls-cache/
+main
+main.o
+replit.nix
