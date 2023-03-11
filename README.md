@@ -4,3 +4,4 @@ Binary search is fastest searching algorithm
 Time complexity --> logn
 
 
+
