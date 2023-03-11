@@ -1,0 +1,11 @@
+# Ignore all reptile code
+*.reptile
+
+# Ignore any reptile directories
+reptiles/
+
+# Ignore any files in reptile directories
+reptiles/**/*
+
+# Ignore any logs produced by reptile code
+*.reptile.log
